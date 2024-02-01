@@ -53,7 +53,7 @@
                 "cost": 100000,
                 "value": 0,
                 "costIncrease": 1.01,
-                "valueIncrease": 16,
+                "valueIncrease": 100000000000000000000,
                 "ascentIncrease": 100000
             }
         ],
