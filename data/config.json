@@ -19,7 +19,7 @@
                 "startD": 2,
                 "cost": 10,
                 "value": 0,
-                "costIncrease": 1.08,
+                "costIncrease": 1.01,
                 "valueIncrease": 1,
                 "initialLevel": 1,
                 "ascentIncrease": 100000
@@ -28,7 +28,7 @@
                 "startD": 2,
                 "cost": 100,
                 "value": 0,
-                "costIncrease": 1.08,
+                "costIncrease": 1.01,
                 "valueIncrease": 2,
                 "ascentIncrease": 100000
             },
@@ -36,7 +36,7 @@
                 "startD": 2,
                 "cost": 1000,
                 "value": 0,
-                "costIncrease": 1.08,
+                "costIncrease": 1.01,
                 "valueIncrease": 4,
                 "ascentIncrease": 100000
             },
@@ -44,7 +44,7 @@
                 "startD": 2,
                 "cost": 10000,
                 "value": 0,
-                "costIncrease": 1.08,
+                "costIncrease": 1.01,
                 "valueIncrease": 8,
                 "ascentIncrease": 100000
             },
@@ -52,7 +52,7 @@
                 "startD": 2,
                 "cost": 100000,
                 "value": 0,
-                "costIncrease": 1.08,
+                "costIncrease": 1.01,
                 "valueIncrease": 16,
                 "ascentIncrease": 100000
             }
@@ -60,27 +60,27 @@
         "multi":[
             {
                 "cost": 10000000,
-                "costIncrease": 10000,
+                "costIncrease": 100,
                 "ascentIncrease": 10000000000000000000000000000000000000
             },
             {
                 "cost": 200000000,
-                "costIncrease": 20000,
+                "costIncrease": 200,
                 "ascentIncrease": 100000000000000000000000000000000000000000
             },
             {
                 "cost": 4000000000,
-                "costIncrease": 30000,
+                "costIncrease": 300,
                 "ascentIncrease": 1000000000000000000000000000000000000000000000
             },
             {
                 "cost": 80000000000,
-                "costIncrease": 40000,
+                "costIncrease": 400,
                 "ascentIncrease": 10000000000000000000000000000000000000000000000000
             },
             {
                 "cost": 1600000000000,
-                "costIncrease": 50000,
+                "costIncrease": 500,
                 "ascentIncrease": 100000000000000000000000000000000000000000000000000000
             }
         ]
